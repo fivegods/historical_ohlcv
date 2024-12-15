@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "historical-ohlcv"
+version = "0.0.1"
+description = ""
+authors = ["wangxi <xib1102@icloud.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.13"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
